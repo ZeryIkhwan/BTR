@@ -20,13 +20,14 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_marginTop="10dp"
-            android:text="Username"
+            android:text="Email"
             android:textColor="#060606" />
 
         <EditText
-            android:id="@+id/txUsername"
+            android:id="@+id/txEmail"
             android:layout_width="320dp"
             android:layout_height="35dp"
+            android:inputType="textEmailAddress"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="15dp"
             android:background="#e6e1e1" />
@@ -121,6 +122,7 @@
             android:textColor="#060606" />
 
         <RadioGroup
+            android:id="@+id/Gender"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
@@ -163,7 +165,6 @@
             android:id="@+id/textView9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_marginTop="15dp"
             android:text="Tanggal Lahir"
             android:textColor="#060606" />
@@ -221,6 +222,7 @@
             android:layout_height="35dp"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="15dp"
+            android:inputType="phone"
             android:background="#e6e1e1" />
 
         <TextView
@@ -232,17 +234,20 @@
             android:textColor="#060606" />
 
         <RadioGroup
+            android:id="@+id/golDarah"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="horizontal">
 
             <RadioButton
+                android:id="@+id/golA"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15dp"
                 android:text="A" />
 
             <RadioButton
+                android:id="@+id/golB"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -250,6 +255,7 @@
                 android:text="B" />
 
             <RadioButton
+                android:id="@+id/golAB"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -257,6 +263,7 @@
                 android:text="AB" />
 
             <RadioButton
+                android:id="@+id/golO"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -266,7 +273,7 @@
         </RadioGroup>
 
         <TextView
-            android:id="@+id/textView12"
+            android:id="@+id/textViewRadio"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
@@ -279,6 +286,7 @@
             android:layout_height="35dp"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="15dp"
+            android:inputType="number"
             android:background="#e6e1e1" />
 
         <android.support.v7.widget.CardView

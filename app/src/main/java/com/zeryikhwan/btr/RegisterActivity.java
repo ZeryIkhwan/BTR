@@ -1,7 +1,8 @@
 package com.zeryikhwan.btr;
 
 import android.app.DatePickerDialog;
-import android.content.Intent;
+import android.app.ProgressDialog;
+import android.content.Context;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.CardView;
@@ -29,6 +30,8 @@ public class RegisterActivity extends AppCompatActivity {
     BaseApiService mApiService;
 
     CardView btnRegist;
+    Context mContext;
+    ProgressDialog loading;
 
     ImageButton txtgl;
     EditText inptgl, inpemail, inppass, inpnama, inpalamat, inpkecamatan, inppekerjaan, inpsuku, inphp, inpberat, inptempatlahir;
@@ -160,6 +163,9 @@ public class RegisterActivity extends AppCompatActivity {
                 inptgl.getText().toString(),
                 inpsuku.getText().toString(),
                 inphp.getText().toString(),
+                //Default_Values Karena Saat Register Orang Tidak Bisa Langsung Scan Mendonor
+                "0000-00-00",
+                "0",
                 Rbgoldar,
                 inpberat.getText().toString())
                 .enqueue(new Callback<ResponseBody>() {
@@ -168,16 +174,15 @@ public class RegisterActivity extends AppCompatActivity {
                     public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
                         if (response.isSuccessful()) {
                             Toast.makeText(getApplicationContext(), "Register Sukses", Toast.LENGTH_SHORT).show();
+                            finish();
 
-                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                            startActivity(intent);
 
                         }
                     }
 
                     @Override
                     public void onFailure(Call<ResponseBody> call, Throwable t) {
-
+                        Toast.makeText(mContext, "UPPSS .. \n\n Koneksi Internet Bermasalah \n\n Periksa kembali koneksi anda!", Toast.LENGTH_SHORT).show();
                     }
                 });
     }

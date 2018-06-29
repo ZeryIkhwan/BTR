@@ -1,5 +1,7 @@
 package com.zeryikhwan.btr;
 
+import android.content.DialogInterface;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
@@ -7,13 +9,20 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.zeryikhwan.btr.Action.PrefManager;
+
 public class Home extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    PrefManager manager;
+    SharedPreferences.Editor editor;
+    SharedPreferences sharedPreferences;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +30,10 @@ public class Home extends AppCompatActivity
         setContentView(R.layout.activity_home);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        manager = new PrefManager(this);
+        sharedPreferences = this.getSharedPreferences(manager.PREF_NAME, 0);
+        editor = sharedPreferences.edit();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -43,8 +56,32 @@ public class Home extends AppCompatActivity
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
-            super.onBackPressed();
+            //super.onBackPressed();
+            AlertDialog.Builder builder = new AlertDialog.Builder(this);
+            builder.setMessage("Anda Yakin Ingin Log Out ?");
+            builder.setCancelable(true);
+            builder.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                    logout();
+                    finish();
+                }
+            });
+            builder.setNegativeButton("No", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                    dialogInterface.cancel();
+                }
+            });
+            AlertDialog alertDialog = builder.create();
+            alertDialog.show();
         }
+    }
+
+    private void logout() {
+        manager.setSudahLogin(false);
+        editor.clear();
+        editor.commit();
     }
 
     @Override
@@ -82,6 +119,11 @@ public class Home extends AppCompatActivity
             case R.id.help:
                 fragment = new Panduan();
                 break;
+            case R.id.out:
+                logout();
+                finish();
+                break;
+
         }
 
         if (fragment != null) {

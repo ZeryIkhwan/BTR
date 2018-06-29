@@ -4,22 +4,22 @@ ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
-MERGED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be932f497438a98dbeabb890c6c349e4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2927ddc8781672c72f3d54adecd96f74\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\88724ec67744ebd85993a6413d6fc189\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:17:1-28:12
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f9a75d4d806b4a80ed4d04fc2aaacdf5\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fa4558a5d7f4e4763bba5579a301ddb2\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e4c7ffb59f1c2443237d8e1ea5b1d57\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e6ab9c67b89602483985c58a806581a5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:17:1-28:12
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\c4c772c3e0d9068167bb09f04178483c\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d0ee2f736f092029a9edd3c84c1af92\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\69a92ad2dff9e2fc7ca4e0c37de6dde3\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\438c04900356eeb8940f711f1450dc0a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3ce38603db1cc545fdbd73236fce213c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\09609e3e105fee195e842c856113554d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac8bcce18dbb72f322e7edebca5be7cd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\f17be9068da8fde442a6ea441c0d887c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\267bf70b7218dcc75e789a5e7b6f04f9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\0dee85e391c194474fb6478180a67f67\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\93981ebc9c70c07082a22dd20c52fa61\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:17:1-31:12
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
@@ -55,36 +55,38 @@ ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:9:5-70
 		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:9:19-67
 application
 ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:11:5-33:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be932f497438a98dbeabb890c6c349e4\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be932f497438a98dbeabb890c6c349e4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2927ddc8781672c72f3d54adecd96f74\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2927ddc8781672c72f3d54adecd96f74\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\88724ec67744ebd85993a6413d6fc189\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\88724ec67744ebd85993a6413d6fc189\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:22:5-26:19
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:11:5-20
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f9a75d4d806b4a80ed4d04fc2aaacdf5\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f9a75d4d806b4a80ed4d04fc2aaacdf5\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fa4558a5d7f4e4763bba5579a301ddb2\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fa4558a5d7f4e4763bba5579a301ddb2\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e6ab9c67b89602483985c58a806581a5\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e6ab9c67b89602483985c58a806581a5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:22:5-26:19
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\c4c772c3e0d9068167bb09f04178483c\AndroidManifest.xml:11:5-20
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\c4c772c3e0d9068167bb09f04178483c\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d0ee2f736f092029a9edd3c84c1af92\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d0ee2f736f092029a9edd3c84c1af92\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\69a92ad2dff9e2fc7ca4e0c37de6dde3\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\69a92ad2dff9e2fc7ca4e0c37de6dde3\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\438c04900356eeb8940f711f1450dc0a\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\438c04900356eeb8940f711f1450dc0a\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3ce38603db1cc545fdbd73236fce213c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3ce38603db1cc545fdbd73236fce213c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\09609e3e105fee195e842c856113554d\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\09609e3e105fee195e842c856113554d\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac8bcce18dbb72f322e7edebca5be7cd\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac8bcce18dbb72f322e7edebca5be7cd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\f17be9068da8fde442a6ea441c0d887c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\f17be9068da8fde442a6ea441c0d887c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\267bf70b7218dcc75e789a5e7b6f04f9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\267bf70b7218dcc75e789a5e7b6f04f9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\0dee85e391c194474fb6478180a67f67\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\0dee85e391c194474fb6478180a67f67\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\93981ebc9c70c07082a22dd20c52fa61\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\93981ebc9c70c07082a22dd20c52fa61\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
 		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
@@ -135,42 +137,42 @@ uses-sdk
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be932f497438a98dbeabb890c6c349e4\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be932f497438a98dbeabb890c6c349e4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2927ddc8781672c72f3d54adecd96f74\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2927ddc8781672c72f3d54adecd96f74\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\88724ec67744ebd85993a6413d6fc189\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\88724ec67744ebd85993a6413d6fc189\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:20:5-43
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:7:5-9:41
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f9a75d4d806b4a80ed4d04fc2aaacdf5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f9a75d4d806b4a80ed4d04fc2aaacdf5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fa4558a5d7f4e4763bba5579a301ddb2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fa4558a5d7f4e4763bba5579a301ddb2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e4c7ffb59f1c2443237d8e1ea5b1d57\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e4c7ffb59f1c2443237d8e1ea5b1d57\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e6ab9c67b89602483985c58a806581a5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e6ab9c67b89602483985c58a806581a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:20:5-44
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\c4c772c3e0d9068167bb09f04178483c\AndroidManifest.xml:7:5-9:41
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\c4c772c3e0d9068167bb09f04178483c\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d0ee2f736f092029a9edd3c84c1af92\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d0ee2f736f092029a9edd3c84c1af92\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\69a92ad2dff9e2fc7ca4e0c37de6dde3\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\69a92ad2dff9e2fc7ca4e0c37de6dde3\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\438c04900356eeb8940f711f1450dc0a\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\438c04900356eeb8940f711f1450dc0a\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3ce38603db1cc545fdbd73236fce213c\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3ce38603db1cc545fdbd73236fce213c\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\09609e3e105fee195e842c856113554d\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\09609e3e105fee195e842c856113554d\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac8bcce18dbb72f322e7edebca5be7cd\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac8bcce18dbb72f322e7edebca5be7cd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\f17be9068da8fde442a6ea441c0d887c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\f17be9068da8fde442a6ea441c0d887c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\267bf70b7218dcc75e789a5e7b6f04f9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\267bf70b7218dcc75e789a5e7b6f04f9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\0dee85e391c194474fb6478180a67f67\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\0dee85e391c194474fb6478180a67f67\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\93981ebc9c70c07082a22dd20c52fa61\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\93981ebc9c70c07082a22dd20c52fa61\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:21:5-23:58
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml
@@ -180,32 +182,32 @@ INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be932f497438a98dbeabb890c6c349e4\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be932f497438a98dbeabb890c6c349e4\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\88724ec67744ebd85993a6413d6fc189\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\88724ec67744ebd85993a6413d6fc189\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f9a75d4d806b4a80ed4d04fc2aaacdf5\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f9a75d4d806b4a80ed4d04fc2aaacdf5\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fa4558a5d7f4e4763bba5579a301ddb2\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fa4558a5d7f4e4763bba5579a301ddb2\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e4c7ffb59f1c2443237d8e1ea5b1d57\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e4c7ffb59f1c2443237d8e1ea5b1d57\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e6ab9c67b89602483985c58a806581a5\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\e6ab9c67b89602483985c58a806581a5\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d0ee2f736f092029a9edd3c84c1af92\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d0ee2f736f092029a9edd3c84c1af92\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\69a92ad2dff9e2fc7ca4e0c37de6dde3\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\69a92ad2dff9e2fc7ca4e0c37de6dde3\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\438c04900356eeb8940f711f1450dc0a\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\438c04900356eeb8940f711f1450dc0a\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3ce38603db1cc545fdbd73236fce213c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3ce38603db1cc545fdbd73236fce213c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\09609e3e105fee195e842c856113554d\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\09609e3e105fee195e842c856113554d\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac8bcce18dbb72f322e7edebca5be7cd\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac8bcce18dbb72f322e7edebca5be7cd\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\f17be9068da8fde442a6ea441c0d887c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\f17be9068da8fde442a6ea441c0d887c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\267bf70b7218dcc75e789a5e7b6f04f9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\267bf70b7218dcc75e789a5e7b6f04f9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\0dee85e391c194474fb6478180a67f67\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\0dee85e391c194474fb6478180a67f67\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\93981ebc9c70c07082a22dd20c52fa61\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\93981ebc9c70c07082a22dd20c52fa61\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\01cc460e83e1d9cf62d14408ac8106dc\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:27:13-51

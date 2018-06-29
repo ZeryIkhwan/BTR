@@ -4,6 +4,7 @@ import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
+import retrofit2.http.GET;
 import retrofit2.http.POST;
 
 public interface BaseApiService {
@@ -22,7 +23,21 @@ public interface BaseApiService {
                                        @Field("user_tgllahir") String tgllahir,
                                        @Field("user_suku") String suku,
                                        @Field("user_hp") String hp,
+                                       @Field("user_tglakhirdonor") String tglakhirdonor,
+                                       @Field("user_jumlahdonor") String jumlahdonor,
                                        @Field("user_goldarah") String goldarah,
                                        @Field("user_berat") String berat);
+
+    //LOGIN
+    @FormUrlEncoded
+    @POST("apilogin.php")
+    Call<ResponseBody> loginRequest(@Field("user_email") String email,
+                                    @Field("user_password") String password);
+
+
+    //JADWAL_MOBIL
+    @FormUrlEncoded
+    @GET("apijadwal.php")
+    Call<ResponseBody> jadwalRequest();
 
 }

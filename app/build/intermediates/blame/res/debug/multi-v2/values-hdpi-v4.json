@@ -4,7 +4,17 @@
             "outputFile": "D:\\TA\\BTR\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\be932f497438a98dbeabb890c6c349e4\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.9.aar\\c4c772c3e0d9068167bb09f04178483c\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "8",
                         "endColumns": "13",
                         "endOffsets": "441"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.9.aar\\c4c772c3e0d9068167bb09f04178483c\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,55",
-                        "endOffsets": "108,164"
                     }
                 }
             ]

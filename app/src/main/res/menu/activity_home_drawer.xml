@@ -21,4 +21,13 @@
         </menu>
     </item>
 
+    <item android:title="Exit">
+        <menu>
+            <item
+                android:id="@+id/out"
+                android:icon="@drawable/ic_lock"
+                android:title="Log Out" />
+        </menu>
+    </item>
+
 </menu>

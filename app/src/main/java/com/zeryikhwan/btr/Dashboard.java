@@ -21,7 +21,7 @@ public class Dashboard extends Fragment {
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        getActivity().setTitle("Dashboard");
+        getActivity().setTitle("BTR");
 
     }
 

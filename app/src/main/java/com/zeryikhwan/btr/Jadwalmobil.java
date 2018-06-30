@@ -3,11 +3,18 @@ package com.zeryikhwan.btr;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v7.widget.DefaultItemAnimator;
+import android.support.v7.widget.DividerItemDecoration;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
+import com.zeryikhwan.btr.adapter.Jadwaladapter;
 import com.zeryikhwan.btr.apiAndroid.BaseApiService;
+import com.zeryikhwan.btr.apiAndroid.UtilsApi;
 import com.zeryikhwan.btr.model.Jadwal;
 
 import org.json.JSONArray;
@@ -31,6 +38,10 @@ public class Jadwalmobil extends Fragment {
     //API_Service
     BaseApiService mApiService;
 
+    ArrayList<Jadwal> jadwalArrayList = new ArrayList<>();
+    private Jadwaladapter mAdapter;
+    private RecyclerView recyclerView;
+
 
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
@@ -42,7 +53,18 @@ public class Jadwalmobil extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.jadwalmobil, container, false);
+        View view = inflater.inflate(R.layout.jadwalmobil, container, false);
+        recyclerView = (RecyclerView) view.findViewById(R.id.recycler_view);
+
+        mApiService = UtilsApi.getApiService();
+
+        RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getActivity());
+        recyclerView.setLayoutManager(layoutManager);
+        recyclerView.addItemDecoration(new DividerItemDecoration(getActivity(), LinearLayoutManager.VERTICAL));
+        recyclerView.setItemAnimator(new DefaultItemAnimator());
+
+        dataJadwal();
+        return view;
     }
 
     public void dataJadwal() {
@@ -55,22 +77,28 @@ public class Jadwalmobil extends Fragment {
                         JSONObject jsonRESULTS = new JSONObject(response.body().string());
 
                         JSONArray jsonArray = jsonRESULTS.getJSONArray("jadwal");
-                        Jadwal jadwal = new Jadwal();
-                        ArrayList<Jadwal> jadwalArrayList = new ArrayList<>();
 
                         for (int i = 0; i < jsonArray.length(); i++) {
                             JSONObject object = jsonArray.getJSONObject(i);
+                            Jadwal jadwal = new Jadwal();
                             jadwal.setTempat(object.getString("tempat"));
                             jadwal.setAlamat(object.getString("alamat"));
                             jadwal.setTanggal(object.getString("tanggal"));
                             jadwal.setWaktu(object.getString("waktu"));
+
+                            jadwalArrayList.add(jadwal);
+                            mAdapter = new Jadwaladapter(jadwalArrayList);
+                            mAdapter.notifyDataSetChanged();
                         }
-                        jadwalArrayList.add(jadwal);
+                        recyclerView.setAdapter(mAdapter);
 
                     } catch (JSONException e) {
                         e.printStackTrace();
+                        Toast.makeText(getContext(), e.toString(), Toast.LENGTH_LONG).show();
                     } catch (IOException e) {
                         e.printStackTrace();
+                        e.printStackTrace();
+                        Toast.makeText(getContext(), e.toString(), Toast.LENGTH_LONG).show();
                     }
                 }
             }

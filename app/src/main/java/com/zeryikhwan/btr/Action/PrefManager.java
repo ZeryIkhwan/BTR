@@ -54,4 +54,25 @@ public class PrefManager {
         editor.commit();
     }
 
+    public String getDataNama() {
+        return pref.getString("nama", "");
+    }
+
+    public String getDataEmail() {
+        return pref.getString("email", "");
+    }
+
+    public String getDataJumlah() {
+        return pref.getString("jumdonor", "");
+    }
+
+    public String getDataTanggal() {
+        return pref.getString("tgldonor", "");
+    }
+
+    public void clearData() {
+        editor.clear();
+        editor.commit();
+    }
+
 }

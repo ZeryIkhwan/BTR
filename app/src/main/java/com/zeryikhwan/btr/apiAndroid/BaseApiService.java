@@ -36,7 +36,6 @@ public interface BaseApiService {
 
 
     //JADWAL_MOBIL
-    @FormUrlEncoded
     @GET("apijadwal.php")
     Call<ResponseBody> jadwalRequest();
 

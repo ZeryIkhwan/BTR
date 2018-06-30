@@ -11,9 +11,9 @@ public final class R {
         public static final int shouldScaleToFill = 0x7f030115;
     }
     public static final class color {
-        public static final int viewfinder_border = 0x7f050067;
-        public static final int viewfinder_laser = 0x7f050068;
-        public static final int viewfinder_mask = 0x7f050069;
+        public static final int viewfinder_border = 0x7f050068;
+        public static final int viewfinder_laser = 0x7f050069;
+        public static final int viewfinder_mask = 0x7f05006a;
     }
     public static final class integer {
         public static final int viewfinder_border_length = 0x7f090009;

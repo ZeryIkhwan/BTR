@@ -61,6 +61,7 @@ public class RegisterActivity extends AppCompatActivity {
 
         txtgl = (ImageButton) findViewById(R.id.btntgl);
 
+        mContext = this;
         RgGol = (RadioGroup) findViewById(R.id.golDarah);
         RgGender = (RadioGroup) findViewById(R.id.Gender);
 
@@ -83,7 +84,7 @@ public class RegisterActivity extends AppCompatActivity {
         btnRegist.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (inpemail.getText().toString().isEmpty()) {
+                if (inpemail.getText().toString().isEmpty() || !inpemail.getText().toString().contains("@")) {
                     Toast.makeText(getApplicationContext(), "Email tidak boleh kosong!", Toast.LENGTH_SHORT).show();
                 } else if (inppass.getText().toString().isEmpty()) {
                     Toast.makeText(getApplicationContext(), "Password tidak boleh kosong!", Toast.LENGTH_SHORT).show();
@@ -175,8 +176,6 @@ public class RegisterActivity extends AppCompatActivity {
                         if (response.isSuccessful()) {
                             Toast.makeText(getApplicationContext(), "Register Sukses", Toast.LENGTH_SHORT).show();
                             finish();
-
-
                         }
                     }
 

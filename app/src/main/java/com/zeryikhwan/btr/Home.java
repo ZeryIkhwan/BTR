@@ -1,7 +1,6 @@
 package com.zeryikhwan.btr;
 
 import android.content.DialogInterface;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
@@ -14,6 +13,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.TextView;
 
 import com.zeryikhwan.btr.Action.PrefManager;
 
@@ -21,8 +22,9 @@ public class Home extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     PrefManager manager;
-    SharedPreferences.Editor editor;
-    SharedPreferences sharedPreferences;
+
+
+    TextView txnavnama, txnavemail;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,19 +34,24 @@ public class Home extends AppCompatActivity
         setSupportActionBar(toolbar);
 
         manager = new PrefManager(this);
-        sharedPreferences = this.getSharedPreferences(manager.PREF_NAME, 0);
-        editor = sharedPreferences.edit();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.setDrawerListener(toggle);
         toggle.syncState();
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+        View headView = navigationView.getHeaderView(0);
+        txnavnama = (TextView) headView.findViewById(R.id.txNamaUser);
+        txnavemail = (TextView) headView.findViewById(R.id.txEmailUser);
         navigationView.setNavigationItemSelectedListener(this);
 
         HalamanScreen(R.id.db);
+
+        txnavemail.setText(manager.getDataEmail());
+        txnavnama.setText(manager.getDataNama());
 
 
     }
@@ -80,14 +87,13 @@ public class Home extends AppCompatActivity
 
     private void logout() {
         manager.setSudahLogin(false);
-        editor.clear();
-        editor.commit();
+        manager.clearData();
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.home, menu);
+        //getMenuInflater().inflate(R.menu.home, menu);
         return true;
     }
 

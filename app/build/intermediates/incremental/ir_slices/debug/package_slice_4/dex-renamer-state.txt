@@ -1,4 +1,4 @@
-#Tue Jun 26 16:07:44 ICT 2018
+#Fri Jun 29 23:00:51 ICT 2018
 base.0=D\:\\TA\\BTR\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

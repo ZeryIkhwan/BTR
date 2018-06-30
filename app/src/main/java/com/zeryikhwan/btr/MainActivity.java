@@ -1,5 +1,6 @@
 package com.zeryikhwan.btr;
 
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -40,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
     EditText inpemail, inppass;
     CardView login;
     PrefManager manager;
+    ProgressDialog dialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,6 +57,8 @@ public class MainActivity extends AppCompatActivity {
         handler = new Handler();
         manager = new PrefManager(this);
 
+        mContext = this;
+
         inpemail = (EditText) findViewById(R.id.txEmail);
         inppass = (EditText) findViewById(R.id.txPassword);
 
@@ -69,7 +73,9 @@ public class MainActivity extends AppCompatActivity {
                 } else if (inppass.getText().toString().isEmpty()) {
                     Toast.makeText(getApplicationContext(), "Password tidak boleh kosong!", Toast.LENGTH_SHORT).show();
                 } else {
-                    Toast.makeText(getApplicationContext(), "Login Sukses", Toast.LENGTH_SHORT).show();
+                    dialog = ProgressDialog.show(mContext, null,
+                            "Harap Tunggu...",
+                            true, false);
                     requestLogin();
                 }
             }
@@ -111,13 +117,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
                 if (response.isSuccessful()) {
-
+                    dialog.dismiss();
                     try {
                         JSONObject jsonRESULTS = new JSONObject(response.body().string());
 
                         //Jika Sukses
                         if (jsonRESULTS.getString("status").equals("success")) {
-
 
                             //Parsing Data
                             String email = jsonRESULTS.getJSONObject("user").getString("email");
@@ -129,6 +134,7 @@ public class MainActivity extends AppCompatActivity {
 
                             Intent intent = new Intent(getApplicationContext(), Home.class);
                             startActivity(intent);
+
 
                         } else {
                             //Jika Login Gagal
@@ -142,14 +148,14 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                 } else {
-
+                    dialog.dismiss();
                 }
             }
 
             @Override
             public void onFailure(Call<ResponseBody> call, Throwable t) {
                 Toast.makeText(mContext, "UPPSS .. \n\n Koneksi Internet Bermasalah \n\n Periksa kembali koneksi anda!", Toast.LENGTH_SHORT).show();
-
+                dialog.dismiss();
             }
         });
     }

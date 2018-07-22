@@ -39,4 +39,16 @@ public interface BaseApiService {
     @GET("apijadwal.php")
     Call<ResponseBody> jadwalRequest();
 
+    //SCAN
+    @FormUrlEncoded
+    @POST("apiscan.php")
+    Call<ResponseBody> scanRequset(@Field("user_id") String id,
+                                   @Field("user_tanggaldonor") String tanggaldonor,
+                                   @Field("user_jumdonor") String jumdonor);
+
+    //DAFTAR_PENDONOR_LEBIH_DARI_3 BUlAN
+    @GET("apipen.php")
+    Call<ResponseBody> daftarRequest();
+
+
 }

@@ -1,6 +1,7 @@
 package com.zeryikhwan.btr;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
@@ -22,7 +23,6 @@ public class Home extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     PrefManager manager;
-
 
     TextView txnavnama, txnavemail;
 
@@ -50,8 +50,9 @@ public class Home extends AppCompatActivity
 
         HalamanScreen(R.id.db);
 
-        txnavemail.setText(manager.getDataEmail());
         txnavnama.setText(manager.getDataNama());
+        txnavemail.setText(manager.getDataEmail());
+
 
 
     }
@@ -71,6 +72,8 @@ public class Home extends AppCompatActivity
                 @Override
                 public void onClick(DialogInterface dialogInterface, int i) {
                     logout();
+                    Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                    startActivity(intent);
                     finish();
                 }
             });
@@ -125,8 +128,13 @@ public class Home extends AppCompatActivity
             case R.id.help:
                 fragment = new Panduan();
                 break;
+            case R.id.profile:
+                fragment = new Profile();
+                break;
             case R.id.out:
                 logout();
+                Intent intent = new Intent(getApplication(), MainActivity.class);
+                startActivity(intent);
                 finish();
                 break;
 

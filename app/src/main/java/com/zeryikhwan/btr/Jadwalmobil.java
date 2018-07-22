@@ -38,7 +38,7 @@ public class Jadwalmobil extends Fragment {
     //API_Service
     BaseApiService mApiService;
 
-    ArrayList<Jadwal> jadwalArrayList = new ArrayList<>();
+    private ArrayList<Jadwal> jadwalArrayList = new ArrayList<>();
     private Jadwaladapter mAdapter;
     private RecyclerView recyclerView;
 

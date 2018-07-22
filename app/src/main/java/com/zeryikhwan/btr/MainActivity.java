@@ -1,11 +1,11 @@
 package com.zeryikhwan.btr;
 
-import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     EditText inpemail, inppass;
     CardView login;
     PrefManager manager;
-    ProgressDialog dialog;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,6 +51,16 @@ public class MainActivity extends AppCompatActivity {
         ActionBar myActionbar = getSupportActionBar();
 
         myActionbar.hide();
+
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplication(), DaftarPendonor.class);
+                startActivity(intent);
+                finish();
+            }
+        });
 
         //API_Serviice
         mApiService = UtilsApi.getApiService();
@@ -73,9 +83,6 @@ public class MainActivity extends AppCompatActivity {
                 } else if (inppass.getText().toString().isEmpty()) {
                     Toast.makeText(getApplicationContext(), "Password tidak boleh kosong!", Toast.LENGTH_SHORT).show();
                 } else {
-                    dialog = ProgressDialog.show(mContext, null,
-                            "Harap Tunggu...",
-                            true, false);
                     requestLogin();
                 }
             }
@@ -98,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
         builder.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
-                System.exit(0);
+                finish();
 
             }
         });
@@ -117,7 +124,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
                 if (response.isSuccessful()) {
-                    dialog.dismiss();
                     try {
                         JSONObject jsonRESULTS = new JSONObject(response.body().string());
 
@@ -125,15 +131,21 @@ public class MainActivity extends AppCompatActivity {
                         if (jsonRESULTS.getString("status").equals("success")) {
 
                             //Parsing Data
+                            String id = jsonRESULTS.getJSONObject("user").getString("id");
                             String email = jsonRESULTS.getJSONObject("user").getString("email");
                             String nama = jsonRESULTS.getJSONObject("user").getString("nama");
                             String tgldonor = jsonRESULTS.getJSONObject("user").getString("tgl_akhirdonor");
                             String jumdonor = jsonRESULTS.getJSONObject("user").getString("jumlah_donor");
+                            String hp = jsonRESULTS.getJSONObject("user").getString("hp");
+                            String alamat = jsonRESULTS.getJSONObject("user").getString("alamat");
+                            String gender = jsonRESULTS.getJSONObject("user").getString("gender");
 
-                            manager.setSudahLogin(true, new String[]{email, nama, tgldonor, jumdonor});
+                            manager.setSudahLogin(true, new String[]{id, email, nama, tgldonor, jumdonor, hp, alamat, gender});
 
+                            Toast.makeText(mContext, "Login Sukses", Toast.LENGTH_SHORT).show();
                             Intent intent = new Intent(getApplicationContext(), Home.class);
                             startActivity(intent);
+                            finish();
 
 
                         } else {
@@ -148,15 +160,14 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                 } else {
-                    dialog.dismiss();
                 }
             }
 
             @Override
             public void onFailure(Call<ResponseBody> call, Throwable t) {
                 Toast.makeText(mContext, "UPPSS .. \n\n Koneksi Internet Bermasalah \n\n Periksa kembali koneksi anda!", Toast.LENGTH_SHORT).show();
-                dialog.dismiss();
             }
         });
     }
+
 }

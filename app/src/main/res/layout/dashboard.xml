@@ -8,8 +8,40 @@
     tools:context="com.zeryikhwan.btr.Dashboard">
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent" />
+        android:layout_width="97dp"
+        android:layout_height="87dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/logo" />
+
+    <ImageView
+        android:layout_width="205dp"
+        android:layout_height="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="114dp"
+        android:background="@drawable/jumlah" />
+
+    <ImageView
+        android:layout_width="233dp"
+        android:layout_height="233dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:background="@drawable/aset" />
+
+    <TextView
+        android:id="@+id/jumlah"
+        android:layout_width="170dp"
+        android:layout_height="90dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="270dp"
+        android:fontFamily="serif"
+        android:text="90"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="80dp" />
 
     <android.support.v7.widget.CardView
         android:id="@+id/btnScan"
@@ -27,7 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:layout_gravity="center"
-            android:text="SCAN"
+            android:text="@string/scan"
             android:textColor="#fff"
             android:textSize="18sp" />
     </android.support.v7.widget.CardView>

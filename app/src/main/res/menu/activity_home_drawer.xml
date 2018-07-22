@@ -10,6 +10,10 @@
             android:id="@+id/jadwal"
             android:icon="@drawable/ic_list_alt"
             android:title="Jadwal Mobil Unit" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_user"
+            android:title="Profile" />
     </group>
 
     <item android:title="About">
@@ -20,14 +24,9 @@
                 android:title="Help" />
         </menu>
     </item>
-
-    <item android:title="Exit">
-        <menu>
             <item
                 android:id="@+id/out"
                 android:icon="@drawable/ic_lock"
                 android:title="Log Out" />
-        </menu>
-    </item>
 
 </menu>

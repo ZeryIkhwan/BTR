@@ -1,15 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0f4a9769269d14d3ce614edaf973ec0f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2927ddc8781672c72f3d54adecd96f74\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:17:1-28:12
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\1d2e8f2bae942171ae90c726c10cc6b2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:17:1-28:12
 MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\c4c772c3e0d9068167bb09f04178483c\AndroidManifest.xml:2:1-13:12
@@ -20,41 +21,47 @@ MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Zery I
 MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8d12b0fc02792ece6e35f78d5ec1cbd6\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\8b83ab2768f3f73ed9723657b5e08c4c\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:3:5-33
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:4:5-33
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.permission.INTERNET
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.CAMERA
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:6:5-65
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:8:22-62
 uses-feature#android.hardware.camera
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:8:5-60
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:10:5-60
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:8:19-57
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:10:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:9:5-70
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:11:5-70
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:9:19-67
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:11:19-67
 application
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:11:5-33:19
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:15:5-43:19
 MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\design-25.4.0.aar\9fe2804ff859c14de05aa466f51dcdb1\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\aa7a8b53314d3e2fdb2c605d38c42205\AndroidManifest.xml:22:5-26:19
@@ -67,6 +74,8 @@ MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradl
 MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:22:5-26:19
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:11:5-20
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\1d2e8f2bae942171ae90c726c10cc6b2\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\1d2e8f2bae942171ae90c726c10cc6b2\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:22:5-26:19
@@ -88,51 +97,63 @@ MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Zery Ikhwan
 MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\f24f3f9b8b1384430af6d9484a5bcd39\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:19:9-41
 	android:hardwareAccelerated
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:13:9-44
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:17:9-44
 	android:roundIcon
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:21:9-42
 	android:largeHeap
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:16:9-33
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:20:9-33
 	android:icon
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:18:9-37
 	android:allowBackup
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:23:9-40
 activity#com.zeryikhwan.btr.MainActivity
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:20:9-26:20
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:24:9-25:20
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:20:19-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:21:13-25:29
-action#android.intent.action.MAIN
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:22:17-69
-	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:22:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:24:17-77
-	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:24:19-47
 activity#com.zeryikhwan.btr.RegisterActivity
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:27:9-54
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:26:9-54
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:27:19-51
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:26:19-51
 activity#com.zeryikhwan.btr.Scanner
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:28:9-45
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:noHistory
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:28:19-42
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:28:13-36
 activity#com.zeryikhwan.btr.Home
-ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:29:9-32:68
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:30:9-33:59
 	android:label
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:31:13-56
-	android:theme
 		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:32:13-56
+	android:theme
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:30:13-33
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:31:13-33
+activity#com.zeryikhwan.btr.DaftarPendonor
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:34:9-35:46
+	android:label
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:35:13-44
+	android:name
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:34:19-49
+activity#com.zeryikhwan.btr.SplashScreen
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:36:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from D:\TA\BTR\app\src\main\AndroidManifest.xml:40:27-74
 uses-sdk
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\TA\BTR\app\src\main\AndroidManifest.xml
@@ -149,6 +170,8 @@ MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradl
 MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\35b1e35db2818bd00b2e2f2376a59585\AndroidManifest.xml:20:5-43
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:7:5-9:41
 MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\817d40bfbf7d33dffa9e44fe30dbb015\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\1d2e8f2bae942171ae90c726c10cc6b2\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\1d2e8f2bae942171ae90c726c10cc6b2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\d7f023333bbec1f96b09a0aa0559e655\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:25.4.0] C:\Users\Zery Ikhwan\.gradle\caches\transforms-1\files-1.1\transition-25.4.0.aar\ea001b9a2d3da3651f8f25e83653d751\AndroidManifest.xml:20:5-44

@@ -26,7 +26,6 @@
         android:largeHeap="true"
         android:roundIcon="@drawable/pmi"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.zeryikhwan.btr.MainActivity" >
         </activity>

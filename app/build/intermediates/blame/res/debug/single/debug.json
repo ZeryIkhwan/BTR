@@ -1,35 +1,35 @@
 [
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
         "source": "D:\\TA\\BTR\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
     },
     {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -72,12 +72,12 @@
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_agenda.png.flat",
-        "source": "D:\\TA\\BTR\\app\\src\\main\\res\\drawable-v21\\agenda.png"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_agenda.png.flat",
+        "source": "D:\\TA\\BTR\\app\\src\\main\\res\\drawable-v21\\agenda.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
@@ -92,12 +92,12 @@
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.4.0.aar\\9fe2804ff859c14de05aa466f51dcdb1\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.4.0.aar\\9fe2804ff859c14de05aa466f51dcdb1\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -248,12 +248,12 @@
         "source": "D:\\TA\\BTR\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\color\\abc_tint_default.xml"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
@@ -268,12 +268,12 @@
         "source": "D:\\TA\\BTR\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_list_alt.png.flat",
-        "source": "D:\\TA\\BTR\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_list_alt.png"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
         "source": "D:\\TA\\BTR\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_list_alt.png.flat",
+        "source": "D:\\TA\\BTR\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_list_alt.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_password.png.flat",
@@ -292,16 +292,16 @@
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.4.0.aar\\9fe2804ff859c14de05aa466f51dcdb1\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.4.0.aar\\9fe2804ff859c14de05aa466f51dcdb1\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
@@ -312,16 +312,16 @@
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -372,12 +372,12 @@
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.4.0.aar\\9fe2804ff859c14de05aa466f51dcdb1\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
@@ -400,24 +400,24 @@
         "source": "D:\\TA\\BTR\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -516,20 +516,20 @@
         "source": "D:\\TA\\BTR\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
         "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Zery Ikhwan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0f4a9769269d14d3ce614edaf973ec0f\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\TA\\BTR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
